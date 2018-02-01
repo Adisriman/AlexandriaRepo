@@ -6,5 +6,7 @@ beer
 
 chiken kottu
 
+beans
+pizza
 
 thank you
